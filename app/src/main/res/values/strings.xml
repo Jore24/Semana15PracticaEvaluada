@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana15PracticaEvaluada</string>
+    <string name="txt_id">Id</string>
+    <string name="txt_servicios">Servicios</string>
+    <string name="txt_userId">UserId</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_body">Body</string>
+    <string name="btn_get">Get</string>
+    <string name="btn_post">Post</string>
+</resources>
